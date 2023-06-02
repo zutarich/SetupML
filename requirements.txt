@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+#indication and automatically set ups this file with the set up.py
+-e .
